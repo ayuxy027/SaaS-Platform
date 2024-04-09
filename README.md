@@ -1,4 +1,4 @@
-# <p align="center" color="red">SaaS Platform</p>
+# <p align="center">SaaS Platform</p>
 
 ## Overview
 Welcome to our SaaS platform! Our platform offers an online website purchasing service, providing you with access to stunning websites that boast exceptional UI/UX experiences, scalable code, and 100% deployability. 

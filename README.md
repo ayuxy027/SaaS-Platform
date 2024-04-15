@@ -14,8 +14,3 @@ Welcome to our SaaS platform! Our platform offers an online website purchasing s
 - **Increased Leads**: Our professional and user-friendly websites are designed to generate more leads for your business.
 - **Boosted Sales**: With our websites, you can enhance your online presence and ultimately increase your sales.
 - **Enhanced Brand Image**: A professional website not only attracts more customers but also strengthens your brand image.
-
-## How to Get Started
-To start exploring our range of websites and experience the difference they can make for your business, simply sign up for an account on our platform and browse our collection. If you have any questions or need assistance, feel free to reach out to our support team.
-
-Thank you for choosing our SaaS platform for your website needs. We look forward to serving you!
